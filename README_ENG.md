@@ -42,10 +42,6 @@ https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 • Detailed information about me  
 https://github.com/dmitry-strungar/about-me
 
-### Diploma of professional retraining
-• Diploma image and details about it  
-https://github.com/dmitry-strungar/bi-analyst-diploma-netology
-
 ---
 
 ## Skills
