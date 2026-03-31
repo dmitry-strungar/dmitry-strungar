@@ -60,9 +60,8 @@ Dashboard development
 
 ## About me
 
-BI Analyst with practical experience in dashboard development, SQL analytics, and product metrics analysis.  
-I want to get a professional job in the field of data analytics, where I can apply data analysis and visualization tools to solve business problems and support decision making.  
-
+A specialist with practical experience in product and BI analytics, working with SQL, Python, and BI dashboards.
+I am looking for positions in data analytics where I can add value through metric analysis, identifying growth opportunities, and data visualization to support business decisions.
 ---
 
 ## Contacts
