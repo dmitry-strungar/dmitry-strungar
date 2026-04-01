@@ -39,7 +39,7 @@ https://github.com/dmitry-strungar/construction-company-sql-analysis
 https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
 ### About me
-• Detailed information about me  
+• Detailed information about me + certificate of course completion  
 https://github.com/dmitry-strungar/about-me
 
 ---
