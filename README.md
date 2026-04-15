@@ -40,7 +40,6 @@ https://github.com/dmitry-strungar/taxi-user-behavior-analysis
 
 ### Обо мне
 • Подробная информация обо мне + свидетельство о прохождении курса
-
 https://github.com/dmitry-strungar/about-me
 
 ---
