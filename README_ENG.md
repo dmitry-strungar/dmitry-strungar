@@ -1,4 +1,4 @@
-# Dmitry Strungar - BI Analyst Portfolio
+# Dmitry Strungar - Data Analyst Portfolio
 
 Welcome to my portfolio!
 
