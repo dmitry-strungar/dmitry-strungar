@@ -64,7 +64,9 @@ https://github.com/dmitry-strungar/about-me
 ## About me
 
 Data Analyst with hands-on experience in product and BI analytics. Worked with PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, and Metabase.    
+
 Familiar with ETL basics (Airflow), Docker setup, Git, and Jira. Understand key business metrics (LTV, CAC, retention), performed A/B tests and cohort analysis.  
+
 Looking for a Data Analyst / BI Analyst position where I can contribute value through metric analysis, identifying growth points, and data visualization to support business decisions.  
 
 ---
