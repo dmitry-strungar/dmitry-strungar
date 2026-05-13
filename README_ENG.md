@@ -15,7 +15,7 @@ My resume is also in this repository.
 https://github.com/dmitry-strungar/wid-product-analytics-funnel-retention-monetization
 
 ### ETL, Data Marts, and Dashboards
-Amazon Sales Analytics | ClickHouse, Apache Airflow, Superset, Metabase, Docker, Git: ETL pipeline automation, daily data mart updates, 3 interactive dashboards (management, product, geographic).  
+Amazon Sales Analytics - ClickHouse, Apache Airflow, Superset, Metabase, Docker, Git: ETL pipeline automation, daily data mart updates, 3 interactive dashboards (management, product, geographic).  
 https://github.com/dmitry-strungar/amazon-sales-analytics-etl-bi
 
 ### BI dashboards
