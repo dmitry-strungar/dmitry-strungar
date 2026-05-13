@@ -14,6 +14,11 @@
 • WID Product Analytics: Воронка, Retention и Монетизация    
 https://github.com/dmitry-strungar/wid-product-analytics-funnel-retention-monetization
 
+### ETL, витрины данных и дашборды
+Аналитика продаж Amazon | ClickHouse, Apache Airflow, Superset, Metabase, Docker, Git:
+Автоматизация ETL-пайплайна, ежедневное обновление витрин данных, 3 интерактивных дашборда (управленческий, продуктовый, географический).  
+https://github.com/dmitry-strungar/amazon-sales-analytics-etl-bi   
+
 ### BI-дашборды
 • BI-дашборды по банковским депозитам (Power BI)  
 https://github.com/dmitry-strungar/bank-deposit-bi-dashboard
