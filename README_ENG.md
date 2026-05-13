@@ -2,7 +2,7 @@
 
 Welcome to my portfolio!
 
-Here you can find my projects in SQL, Power BI, Tableau, and Python, focused on business metrics, dashboards, and analytical problem solving.  
+Here you'll find my projects in SQL, Power BI, Tableau, ClickHouse, Python, and Airflow - focused on business metrics, interactive dashboards, ETL pipelines, and solving real-world analytical challenges.
 
 My resume is also in this repository.
 
