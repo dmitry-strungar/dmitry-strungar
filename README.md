@@ -56,7 +56,7 @@ https://github.com/dmitry-strungar/about-me
 **BI и визуализация:** `Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`    
 **ETL и контейнеризация:** `Apache Airflow` `Docker` `Git`    
 **Управление задачами:** `Jira`    
-**Аналитика:** `когорты` `retention` `воронки` `A/B-тесты` `витрины данных` `ETL`    
+**Аналитика:** `Когорты` `Retention` `Воронки` `A/B-тесты` `Витрины данных` `ETL`    
 **Инструменты:** `Excel` `Power Query`  
 
 ---
