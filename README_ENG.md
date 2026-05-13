@@ -50,22 +50,23 @@ https://github.com/dmitry-strungar/about-me
 
 ## Skills
 
-SQL (PostgreSQL)  
-Power BI  
-Tableau  
-Yandex DataLens  
-Python  
-Excel  
-Product analytics (conversion, retention, funnels)  
-Business metrics  
-Dashboard development  
+**Databases:** `PostgreSQL` `ClickHouse`  
+**Python:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+**BI & Visualization:** `Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`  
+**ETL & Containerization:** `Apache Airflow` `Docker` `Git`  
+**Task Management:** `Jira`  
+**Analytics:** `cohort analysis` `retention` `funnels` `A/B testing` `data marts` `ETL`  
+**Tools:** `Excel` `Power Query`
+
 
 ---
 
 ## About me
 
-A specialist with practical experience in product and BI analytics, working with SQL, Python, and BI dashboards.
-I am looking for positions in data analytics where I can add value through metric analysis, identifying growth opportunities, and data visualization to support business decisions.
+Data Analyst with hands-on experience in product and BI analytics. Worked with PostgreSQL, ClickHouse, Python, Power BI, Tableau, Superset, and Metabase.    
+Familiar with ETL basics (Airflow), Docker setup, Git, and Jira. Understand key business metrics (LTV, CAC, retention), performed A/B tests and cohort analysis.  
+Looking for a Data Analyst / BI Analyst position where I can contribute value through metric analysis, identifying growth points, and data visualization to support business decisions.  
+
 ---
 
 ## Contacts
