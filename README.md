@@ -51,13 +51,13 @@ https://github.com/dmitry-strungar/about-me
 
 Навыки
 
-**Базы данных:** `PostgreSQL` `ClickHouse`    
-**Python:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`   
-**BI и визуализация:** `Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`    
-**ETL и контейнеризация:** `Apache Airflow` `Docker` `Git`    
-**Управление задачами:** `Jira`    
-**Аналитика:** `Когорты` `Retention` `Воронки` `A/B-тесты` `Витрины данных` `ETL`    
-**Инструменты:** `Excel` `Power Query`  
+**Базы данных** - `PostgreSQL` `ClickHouse` `SQL`  
+**Python** - `Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly` `SciPy`  
+**BI и визуализация** - `Power BI` `Tableau` `Yandex DataLens` `Apache Superset` `Metabase`  
+**ETL и контейнеризация** - `Apache Airflow` `Docker` `Git` `GitHub`  
+**Управление задачами** - `Atlassian Jira`  
+**Аналитика** - `Когортный анализ` `Retention` `Воронки` `A/B-тесты` `Проверка статистических гипотез (p-value)` `Витрины данных` `ETL` `DAX`  
+**Инструменты** - `MS Excel` `Power Query`  
 
 ---
 
